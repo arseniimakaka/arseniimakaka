@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**arseniimakaka/arseniimakaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arsenii Makeev, a developer passionate about coding, learning new technologies, and building cool projects.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=sleep+eat+eat+repeat)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+Languages: Python. JavaScript
+Tools: Git
+Frameworks: Next.JS, Flask
+Databases: SQLite, PostgreSQL
+Grind: LeetCode
+
+### 📫 Reach Me
+Feel free to connect via [Instagram](https://www.instagram.com/).
